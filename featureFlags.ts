@@ -21,4 +21,11 @@ export const FeatureFlags = [
     description: 'When enabled, a sturdy, transparent canopy lowers over the cockpit',
     tickets: ['F-22'],
   },
+  {
+    _id: 'generatedIssueFromSamplePlan20251125',
+    title: 'Generated issue from sample plan.',
+    defaultValue: 0,
+    description: 'Generated issue from sample plan.',
+    tickets: ['SSP-28'],
+  },
 ]
