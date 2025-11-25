@@ -21,4 +21,11 @@ export const FeatureFlags = [
     description: 'When enabled, a sturdy, transparent canopy lowers over the cockpit',
     tickets: ['F-22'],
   },
+  {
+    _id: 'moduleIntegration20251125',
+    title: 'Module Integration',
+    defaultValue: 0,
+    description: 'Module Integration',
+    tickets: ['SSP-18'],
+  },
 ]
