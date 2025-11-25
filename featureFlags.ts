@@ -21,4 +21,11 @@ export const FeatureFlags = [
     description: 'When enabled, a sturdy, transparent canopy lowers over the cockpit',
     tickets: ['F-22'],
   },
+  {
+    _id: 'permissionTiersImplementation20251125',
+    title: 'Permission Tiers Implementation',
+    defaultValue: 0,
+    description: 'Permission Tiers Implementation',
+    tickets: ['SSP-35'],
+  },
 ]
