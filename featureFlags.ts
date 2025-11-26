@@ -21,4 +21,11 @@ export const FeatureFlags = [
     description: 'When enabled, a sturdy, transparent canopy lowers over the cockpit',
     tickets: ['F-22'],
   },
+  {
+    _id: 'sukhoiIsGood20251110',
+    title: 'Offline Transactions and Updates',
+    defaultValue: 0,
+    description: 'Offline Transactions and Updates',
+    tickets: ['SSP-46'],
+  },
 ]
