@@ -23,7 +23,7 @@ export const FeatureFlags = [
   },
   {
     _id: 'userBehaviourAnalysis20251126',
-    title: 'User Behaviour Analysis',
+    title: 'f22IsAwesome20251110',
     defaultValue: 0,
     description: 'User Behaviour Analysis',
     tickets: ['SSP-37'],
