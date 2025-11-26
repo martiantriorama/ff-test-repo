@@ -22,7 +22,7 @@ export const FeatureFlags = [
     tickets: ['F-22'],
   },
   {
-    _id: 'offlineTransactionsAndUpdates20251126',
+    _id: 'sukhoiIsGood20251110',
     title: 'Offline Transactions and Updates',
     defaultValue: 0,
     description: 'Offline Transactions and Updates',
